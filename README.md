@@ -1,3 +1,5 @@
+# CS471WorkflowsHomeworkAssignment
+
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
@@ -122,3 +124,6 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
 ## Step 7 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
+=======
+# CS471WorkflowsHomeworkAssignment
+>>>>>>> 299b51de16f4241705ac63662bcf2fb32a10edcc
